@@ -1,11 +1,9 @@
-Link to Google Earth Engine code for initial processing
 
 
-Link to Colab notebook for initial processing
+## Suggested citation
 
+> He Du, Mendez Carlos, Li Xiaomeng (2025) Estimates of district-level GDP per capita in Cambodia 1990-2022. https://github.com/gdo-cambodia/cambodia202-1990-2022-GDPpc
 
+## About
 
-Link to the used shapefile
-
-
-Links to Colab notebooks for EDA and ESDA
+## Exploratory Colab notebooks
