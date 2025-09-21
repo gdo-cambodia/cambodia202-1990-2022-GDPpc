@@ -7,3 +7,5 @@
 ## About
 
 ## Exploratory Colab notebooks
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gdo-cambodia/cambodia202-1990-2022-GDPpc/blob/main/cambodia202_1990_2022_GDPpc_eda.ipynb) Exploratory data analysis (EDA)
